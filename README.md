@@ -9,4 +9,3 @@ npm i -D @typescript-eslint/parser
 npm i -D @typescript-eslint/eslint-plugin
 Создать файл конфигурации .eslintrc.json:
 eslint --init
-
