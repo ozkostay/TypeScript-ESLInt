@@ -1,0 +1,24 @@
+{
+  "name": "typescript-eslint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "./node_modules/.bin/etc --project ./tsconfig.json --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozkostay/TypeScript-ESLInt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozkostay/TypeScript-ESLInt/issues"
+  },
+  "homepage": "https://github.com/ozkostay/TypeScript-ESLInt#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
